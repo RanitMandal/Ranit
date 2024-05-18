@@ -18,7 +18,7 @@ Welcome to my personal portfolio website repository! This website serves as a di
 
 ## Getting Started
 
-To view my portfolio website, simply open the `index.html` file in your web browser. Alternatively, you can access the live website at [Insert Live Link Here].
+To view my portfolio website, simply open the `index.html` file in your web browser. Alternatively, you can access the live website at [Live Link Here](https://ranitmandal.github.io/Ranit/).
 
 ## Contributing
 
@@ -31,7 +31,7 @@ Contributions to enhance the content or design of my portfolio website are welco
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [License](LICENSE).
 
 ## Contact
 
