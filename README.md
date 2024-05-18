@@ -40,6 +40,6 @@ Feel free to reach out to me if you have any questions or feedback regarding my 
 Ranit Mandal   
 ranitmandal17@gmail.com   
 +91 xxxxxxxx   
-[Linkedin](www.linkedin.com/in/ranitmandal) || [Facebook](https://www.facebook.com/ranitmandal17/)    
+[Linkedin](https://www.linkedin.com/in/ranitmandal/) || [Facebook](https://www.facebook.com/ranitmandal17/)    
 
 Thank you for visiting my portfolio!
